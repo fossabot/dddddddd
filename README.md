@@ -1,4 +1,6 @@
 # php-test
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnormal-coder%2Fdddddddd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnormal-coder%2Fdddddddd?ref=badge_shield)
+
 asdad
 ```js
 var isDev = process.env.NODE_ENV == "development";
@@ -67,3 +69,7 @@ asdasdasd
 ```
 
 asd
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnormal-coder%2Fdddddddd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnormal-coder%2Fdddddddd?ref=badge_large)
